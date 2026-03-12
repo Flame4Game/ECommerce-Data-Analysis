@@ -19,4 +19,5 @@ pivot["Overall"] = pivot.mean(axis=1)
 pivot.loc["Overall"] = pivot.mean()
 sns.heatmap(pivot, annot=True, fmt='.4f', cmap='RdYlGn')
 plt.title('Profit per Sale by Region and Product Name')
+
 plt.show()
