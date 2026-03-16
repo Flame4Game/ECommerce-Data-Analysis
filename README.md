@@ -17,3 +17,4 @@ We can see that the North region has some standout good and bad products; Smart 
 
 ### Main Dashboard
 
+![Main Dashboard](Dashboards/Main_Dashboard.png)
