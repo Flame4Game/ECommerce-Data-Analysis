@@ -19,3 +19,12 @@ We can see that the North region has some standout good and bad products; Smart 
 ### Main Dashboard
 
 ![Main Dashboard](Dashboards/Main_Dashboard.png)
+
+This dashboard serves as an overview of the data, with three KPIs and two charts for analysis. The first is an indication on how total sales and average profit per sale fluctuates through subsection, which is essentially a half of a year (Subsection 1 is Jan 1 to Jun 30 of 2022, and Subsection 6 is Jul 1 to Dec 31 of 2024). We can see that there was overall movement upwards through subsections 2-4, and downturn from subsections 4-6, and from 1-2. This should be kept in mind when looking at later charts.
+
+The second chart is similar to the earlier heatmap, but instead of profit per sale, it's total sales. So we can see in sheer quantity, West has the most sales, with Monitors and Smartphones being really strong products there, while North has also good Monitor sales but less of everything else, particularly Headphones. This is less of a picture of what products are doing well, per se, as population size plays a big role in the results of this chart, but moreso of sheer quantity.
+
+
+### Product Performance Charts
+
+![Profit per Sale by Product](Dashboards/Profit per Sale by Product.png)
