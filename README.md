@@ -27,4 +27,4 @@ The second chart is similar to the earlier heatmap, but instead of profit per sa
 
 ### Product Performance Charts
 
-![Profit per Sale by Product](Dashboards/Profit per Sale by Product.png)
+![Profit per Sale by Product](Dashboards/Profit_per_Sale_by_Product.png)
